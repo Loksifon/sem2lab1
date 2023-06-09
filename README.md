@@ -4,9 +4,9 @@
 
 ### Header ###
 
-'''
-    header.header>menu.header__menu>a.header__link>img.header__logo^.container>ul.header__list.header__list--grey>li.header__item*4>a.header__link^^ul.header__list>li.header__item*2>a.header__link^.header__item>btn.header__button
-'''
+```
+    header.header>a.logo.header__logo>img.logo__img^.header__container.container>nav.header__nav>ul.header__list>.header__item*4>a.header__link^^^ul.pages.header__pages>li.pages__item*2>a.pages__link^^^btn.header__btn.btn
+```
 
 ### Card ###
 
@@ -31,4 +31,3 @@
 ```
 ![image](https://user-images.githubusercontent.com/113594760/223345855-0d13a5d2-c595-4b88-8f68-bb65f0cd40f3.png)
 
-### My #
