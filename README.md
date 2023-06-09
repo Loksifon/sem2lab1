@@ -7,6 +7,8 @@
 ```
     header.header>a.logo.header__logo>img.logo__img^.header__container.container>nav.header__nav>ul.header__list>.header__item*4>a.header__link^^^ul.pages.header__pages>li.pages__item*2>a.pages__link^^^btn.header__btn.btn
 ```
+![image](https://github.com/Loksifon/sem2lab1/assets/113594760/0c81d2fc-70a4-4b8b-ac2a-8468d867ba88)
+
 
 ### Card ###
 
@@ -30,5 +32,3 @@
     .card>img.card__img+p.card__title
 ```
 ![image](https://user-images.githubusercontent.com/113594760/223345855-0d13a5d2-c595-4b88-8f68-bb65f0cd40f3.png)
-
-### My #
