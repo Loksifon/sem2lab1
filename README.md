@@ -5,7 +5,7 @@
 ### Header ###
 
 ```
-    header.header>a.logo.header__logo>img.logo__img^.header__container.container>nav.header__nav>ul.header__list>.header__item*4>a.header__link^^^ul.pages.header__pages>li.pages__item*2>a.pages__link^^^btn.header__btn.btn
+    header.header>a.logo.header__logo>img.logo__img^.header__container.container>nav.navigation.header__navigation>ul.header__list>li.header__item*4>a.header__link^^^ul.pages.header__pages>li.pages__item*2>a.pages__link^^^btn.header__btn.btn
 ```
 ![image](https://github.com/Loksifon/sem2lab1/assets/113594760/0c81d2fc-70a4-4b8b-ac2a-8468d867ba88)
 
